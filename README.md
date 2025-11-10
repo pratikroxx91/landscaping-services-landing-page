@@ -38,6 +38,11 @@ Built with React and Tailwind CSS.
 
 
 
+📸 Screenshots
+
+![Desktop Screenshot](ls_shot.png)
+
+
 🙌 Acknowledgements
 
 Design inspired from Figma design "Garden Services Landing Page" by Mykhailo Vasylenko.
