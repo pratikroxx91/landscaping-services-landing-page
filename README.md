@@ -40,7 +40,7 @@ Built with React and Tailwind CSS.
 
 📸 Screenshots
 
-![Desktop Screenshot](public/ls_shot.png)
+![Desktop Screenshot](public/ls_shot.jpg)
 
 
 🙌 Acknowledgements
